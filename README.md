@@ -33,6 +33,5 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/DayanchMuhammetgeldiyev/DayanchMuhammetgeldiyev/blob/output/snake.svg" alt="Snake animation" />
 
 ###
