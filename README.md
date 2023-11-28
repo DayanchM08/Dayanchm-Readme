@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Dayanch</h4>
+<h4 align="left">Hi 👋! My name is Dayanch, I have been interested in coding for 7 years and I have been improving myself. I took part in many projects. I have advanced knowledge of Go, Javascript and PHP languages. I like developing programs with Go language the most. I love reading documentation of languages. As my hobbies, I like coding, FIFA and reading books. </h4>
 
 ###
 
