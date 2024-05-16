@@ -1,4 +1,4 @@
-<h4 align="left">I am a seasoned software engineer with a strong background in designing and constructing distributed, scalable systems. My expertise spans across multiple programming languages, including Go, Node.js but my true passion lies in the realm of Go. Over the course of my career, I have dedicated myself to mastering the intricacies of Go, specializing in building microservices and shaping robust software architectures. </h4>
+<h4 align="left">Hey, I am Dayanch</h4>
 
 ###
 
